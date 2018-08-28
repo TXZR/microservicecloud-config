@@ -4,7 +4,3 @@ spring:
    profiles: test
    application:  
       name: test-client
-eureka: 
-  instance: 
-    instance-id: microservicecloud-dept8022
-    prefer-ip-address: true
